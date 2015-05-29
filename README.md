@@ -17,7 +17,7 @@ Introducing geocode-php-api it enables you to access the location information ei
 ## Setting Up
 - Copy the php script i.e. <code>src/Location.inc.php</code> to any directory or root directory of Project
 - Include the <code>Location.inc.php</code> on your required Php script as <code>require_once('dir/to/Location.inc.php')</code>
-- Now edit <code>Location.inc.php</code> in a text editor and paste/write your google api key on defined place. <a href="https://developers.google.com/maps/documentation/geocoding/#api_key">Know More about API key</a><br>Write your api key on this place were it is mentioned <code>define('GOOGLE_API_KEY','YOUR_API_KEY')</code>. Replace 'YOUR_API_KEY' with your google api key.
+- Now edit <code>Location.inc.php</code> in a text editor and paste/write your google api key on defined place. <a href="https://developers.google.com/maps/documentation/geocoding/#api_key">Know More about API key</a><br>Write your api key on this place were it is mentioned <code>define('GOOGLE_API_KEY','YOUR_API_KEY')</code>.<br>Replace 'YOUR_API_KEY' with your google api key.
 - Save and close <code>Location.inc.php</code>
 - Done!
 
