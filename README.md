@@ -1,5 +1,7 @@
 # Google Geocode Php Api - x-c0der (Beta Release)
 
+[![Join the chat at https://gitter.im/x-c0der/geocode-php-api](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/x-c0der/geocode-php-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Introducing geocode-php-api it enables you to access the location information either by the address or geomteric location i.e. Lat. and Long.
 - Easy to setup
 - No extra requirements just Php => 5.0
